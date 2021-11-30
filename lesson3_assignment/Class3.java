@@ -2,7 +2,7 @@ package lesson3_assignment;
 
 import static java.lang.System.exit;
 
-public class Class3<fridge> {
+public class Class3 {
 
     public static void main(String[] args) {
 
