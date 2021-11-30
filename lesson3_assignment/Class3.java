@@ -1,5 +1,7 @@
 package lesson3_assignment;
 
+import static java.lang.System.exit;
+
 public class Class3<fridge> {
 
     public static void main(String[] args) {
@@ -41,6 +43,7 @@ public class Class3<fridge> {
         System.out.print("The current state is ");
         fridge.getState();
         System.out.println();
+        exit(0);
     }
 
 
