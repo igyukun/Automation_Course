@@ -22,7 +22,7 @@ public class Question7 {
 
     public static void main(String[] args) {
 
-        String pageURL = "https://www.scd.co.il/";  //web page URL
+        String pageURL = "https://www.scd.co.il/";  //web page URL, e.g. https://github.com/igyukun/Automation_Course
         String outputFilePath = "readURL.html";     //output file path to write the web page contents into
 
         try {
